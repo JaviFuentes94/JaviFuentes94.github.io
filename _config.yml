@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Javier Fuentes Alonso"
+title: ""
+masthead_title: "Javier Fuentes Alonso"
 email: javierfuentesalonso@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Javier Fuentes Alonso personal website. 
@@ -58,12 +59,15 @@ plugins:
 author:
   name   : "Javier Fuentes Alonso"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Building ML systems for the real world. I teach machines to design at uizard.io"
+  bio    : "Building ML systems for the real world. I teach computers to design at uizard.io"
   location: "Copenhagen, Denmark"
   links:
+    - label: " Research Engineer @ Uizard"
+      icon: "fas fa-briefcase"
+      url: "https://uizard.io/"
     - label: " Subscribe"
       icon: "fas fa-envelope-open-text"
-      url: "https://tinyletter.com/JavierFnts"
+      url: "https://tinyletter.com/JavierFuentes"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JavierFnts"
@@ -118,3 +122,6 @@ analytics:
   google:
     tracking_id: "G-5DTZK099RB"
     anonymize_ip: false # default
+
+twitter:
+  username: "JavierFnts"
