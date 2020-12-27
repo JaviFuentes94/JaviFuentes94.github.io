@@ -120,7 +120,7 @@ tag_archive:
 analytics:
   provider: "google"
   google:
-    tracking_id: "G-5DTZK099RB"
+    tracking_id: "UA-186160150-1"
     anonymize_ip: false # default
 
 twitter:
