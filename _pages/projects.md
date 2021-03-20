@@ -4,18 +4,17 @@ read_time: false
 comments: true
 share: true
 author_profile: true
-title: Projects
+title: <br /> <br /> <br /> Projects
 permalink: /projects/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-#   overlay_image: /assets/images/trinity.jpg
-#   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
+  overlay_filter: "0.4"
+  overlay_image: https://images.unsplash.com/photo-1518314916381-77a37c2a49ae?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80
 
 uizard_lofi_conversion:
   - image_path: assets/images/projects/uizard_lofi_conversion.gif
     alt: "Uizard, sketch to design conversion"
-    title: 'Transforming sketches into a ui design prototype'
+    title: 'Transforming sketches into a UI design prototype'
     excerpt: "Worked on a machine learning pipeline that transforms a picture of a rough sketch into a high fidelity design.
     <br /> <br />
     [Watch video](https://www.youtube.com/watch?v=6PVgUBMBpsw){: .btn .btn--inverse .btn--large} &emsp; [Try it](https://app.uizard.io/auth/sign-up){: .btn .btn--primary .btn--large}"
@@ -72,6 +71,7 @@ robotics_lidar:
 
  
 ---
+Some of the cool projects I have been working in the past few years
 ## Uizard
 {% include feature_row id="uizard_lofi_conversion" type="left" %}
 {% include feature_row id="uizard_theme_extraction" type="left" %}

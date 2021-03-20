@@ -4,13 +4,12 @@ read_time: false
 comments: true
 share: true
 author_profile: true
-title: Talks
+title: <br /> <br /><br /> Talks
 permalink: /talks/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-#   overlay_image: /assets/images/trinity.jpg
-#   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
+  overlay_image: https://images.unsplash.com/photo-1535016120720-40c646be5580?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
 
 feature_row_london_ai:
   - image_path: assets/images/talks/london_ai.png

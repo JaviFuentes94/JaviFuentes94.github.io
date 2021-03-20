@@ -1,19 +1,19 @@
 ---
 layout: home
 author_profile: true
-title: ""
+# title: "<br /> <br /> <br /> <br />" 
 header:
 #  overlay_color: "#4e91a5"
-#  overlay_filter: 0.3
-#  image: /assets/images/paramo_crop.png
+#  overlay_filter: 0.0
+    image: /assets/images/banner.png
 ---
 
-Hey! My name is Javier and I work with applied machine learning. Nowadays I work at [Uizard](https://uizard.io), where I am applying machine learning to different problems in the design field.  Previously I have been working with robotics at both [ETH](https://asl.ethz.ch/) and [DTU](https://www.dtu.dk/english), mostly on projects related to intelligent robotics and robot vision. 
+Hey! I am Javier 👋
 
-### Cool projects I have worked on
- - Uizard
- - Robotics
+I work with applied machine learning. Nowadays I work at [Uizard](https://uizard.io), where we are building the world's first machine learning powered design tool.   
 
- <div id='featured'></div>
+In my previous life I was working with robotics at both [ETH](https://asl.ethz.ch/) and [DTU](https://www.dtu.dk/english), mostly on projects related to intelligent robotics and robot vision. 
 
-{% include feature_row %}
+Remember to [Follow me on Twitter]() to learn more about some of my [projects](projects) and in general the world of building machine learning powered products. 
+
+<br /> <br />
