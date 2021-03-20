@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Javier Fuentes Alonso"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Building ML systems for the real world. I teach computers to design at uizard.io"
+  bio    : "Building machine learning powered products. I teach computers to design at uizard.io"
   location: "Copenhagen, Denmark"
   links:
     - label: " Research Engineer @ Uizard"

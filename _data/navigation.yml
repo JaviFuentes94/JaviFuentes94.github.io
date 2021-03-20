@@ -5,5 +5,3 @@ main:
     url: "/blog/"
   - title: "Publications"
     url: "/publications/"
-  - title: "About"
-    url: "https://www.linkedin.com/in/javier-fuentes-alonso/"
