@@ -65,7 +65,7 @@ robotics_lidar:
   - image_path: assets/images/projects/robotics_lidar.gif
     alt: "Lidar"
     title: 'A cheap (and really slow) 3D lidar'
-    excerpt: "We built a really basic 3D lidar using a couple of motors, a sensor and some electronics. Th Lidar will then send the measurements to a computer for visualization.  
+    excerpt: "We built a really basic 3D lidar using a couple of motors, a sensor and some electronics. The Lidar will then send the measurements to a computer for visualization.  
     <br /> <br />
     [Code](https://github.com/JaviFuentes94/DTULidar){: .btn .btn--primary .btn--large}"
 
