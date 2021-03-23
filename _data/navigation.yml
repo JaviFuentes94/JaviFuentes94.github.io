@@ -1,9 +1,7 @@
 main:
-  - title: "Talks"
-    url: "/talks/"
+  - title: "Projects"
+    url: "/projects/"
   - title: "Blog"
     url: "/blog/"
-  - title: "Publications"
-    url: "/publications/"
-  - title: "About"
-    url: "https://www.linkedin.com/in/javier-fuentes-alonso/"
+  - title: "Talks"
+    url: "/talks/"
