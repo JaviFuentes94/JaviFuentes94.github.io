@@ -12,7 +12,7 @@ header:
 ---
 
 A couple of weeks ago, I finally pushed my first side project, [clipplayground.co](https://www.clipplayground.co). My motivation was creating a product end to end, so not only taking care of the code, but also learn a bit of marketing, design, UX, etc. As an engineer with no experience on those areas the idea can sound daunting, but as anything that put us out of our comfort zone, there are a lot of learnings. These are some of them: 
-# What I built  
+## What I built  
 Clip playground is a simple interface that allows you to test [OpenAI's machine learning model CLIP](https://openai.com/blog/clip/) from the comfort of your browser. The motivation behind it was that there is a lot of potential using CLIP in a lot of products out of the box, no training required. It is the closest in the computer vision field to GPT3. However, people turning these technologies into products are usually not the ones comfortable with tweaking some Pytorch scripts and huge models. That's why I felt that giving the people a simple, ready-to-use UI could help developing new products based on CLIP.    
 
 <figure>
@@ -22,7 +22,7 @@ Clip playground is a simple interface that allows you to test [OpenAI's machine 
 
 
 With this goal in mind, I spent ~1 hour per day developing the product and after a couple of weeks, I had something to show the world! (Read more about how I built it [here](https://twitter.com/JavierFnts/status/1363522529072214019?s=20)).  But building it was the part I was comfortable with. How about promoting it? 
-# Where to promote a side project
+## Where to promote a side project
 The product is ready, now, where are the people that can be interested? I used these channels, with diverse levels of success:
 #### Twitter
 I have a small following, so I was not expecting a huge reach. Still, this tweet got ~2k impressions and ~400 engagements. Not bad. 
@@ -39,7 +39,7 @@ I submitted on a Monday at 9.01 am, and a few minutes later I got to the front p
 Probably the platform I got the most success. It was also the platform I spent the most time preparing so it was expected. 
 #### Streamlit forums
 Streamlit is the tool I used to create the product, so I was hoping I would get some interest from there, but it didn't attract [any attention](https://discuss.streamlit.io/t/clip-playground-an-app-to-try-openais-clip-model/10126). 
-### Resources I found useful
+## Resources I found useful
 - [Screely](https://www.screely.com/): A really simple and easy way to make the screenshots of your product look good. I used it for the product hunt launch.  
 - [CodeImg](https://codeimg.io/): Same idea as screely but for code. I used it for the [Twitter thread](https://twitter.com/JavierFnts/status/1363522529072214019?s=20) where I explained how I built it. 
 - Diagram of product hunt launch: A great overview with all the rules of thumb when launching in Product Hunt
@@ -50,7 +50,7 @@ Streamlit is the tool I used to create the product, so I was hoping I would get 
 - [Photopea](https://www.photopea.com/): Free simpler version of photoshop in your browser. I used it to create a simple logo and to add text to the screenshots from screely. 
 - [copy.ai](https://www.copy.ai/): GPT-3 powered copywriting. It helps to brainstorm different ways you can communicate your product. I used it to get ideas for the product hunt description.
 
-### What I will do differently next time
+## What I will do differently next time
 - **Set up analytics**: I thought I could not set up analytics with a Streamlit app but I have recently found [this great package](https://github.com/jrieke/streamlit-analytics) that allows you to do so. Seeing from which posts were people coming to the app and how people are using the application would have been really valuable. 
 - **Submit to product hunt ahead of time**: Instead of clicking the submit button at 9:01 am, it is better to schedule the post in advance. The reason is that Product Hunt moderators need to accept your product before it can go to the front page. They will also modify the description of your product so that it fits well with their audience. If you do this ahead of time you can go to the front page as soon as you hit the number of upvotes, and both parties can agree on a description beforehand. 
 - **Talk with a moderator at Reddit about the post**: The fact that it took hours until it was visible for other users completely killed any possibility to get to the top of the front page. I would try to be sure that your post will be accepted straight away, somehow. 
