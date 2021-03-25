@@ -123,8 +123,7 @@ tag_archive:
 analytics:
   provider: "google-universal"
   google:
-    tracking_id: "UA-186160150-1"
-    anonymize_ip: false # default
+    tracking_id: "UA-186096619-1"
 
 twitter:
   username: "JavierFnts"
