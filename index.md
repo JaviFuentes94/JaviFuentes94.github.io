@@ -11,11 +11,11 @@ header:
 
 Hey! I am Javier 👋
 
-I design and implement machine learning solutions for real world problems. I love reading papers for inspiration and then complaining about the lack of data to bringing them to products.
+I design and implement machine learning solutions for real world problems. I love reading papers for inspiration and then complain about not having enough data to bring them to products.
 
-Currently, I am working on different CV & NLP problems at [Uizard](https://uizard.io), where we are building the world's first machine learning powered design tool. We believe that you can design products if machine learning gives you a hand.    
+Currently, I am working on different CV & NLP problems at [Uizard](https://uizard.io), where we are building the world's first machine learning powered design tool. We believe that you can design products if machine learning gives you a hand. 
 
-Sometimes I also build stuff on the side, you can check my [projects page](projects).
+You can check out my [projects page](projects) to see some of the stuff I have built in Uizard and on the side lately.
 
 In my previous life, I was working with robotics at both [ETH](https://asl.ethz.ch/) and [DTU](https://www.dtu.dk/english), mostly on projects related to intelligent robotics and robot vision. 
 
