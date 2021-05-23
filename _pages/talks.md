@@ -19,6 +19,16 @@ feature_row_london_ai:
     btn_class: "btn--inverse"
     btn_label: "Recorded Talk"
     url: "https://youtu.be/1j8NVHo5vUg"
----
 
+feature_row_codiax:
+  - image_path: assets/images/talks/codiax.png
+    alt: "Javier Fuentes Alonso, Codiax talk"
+    title: 'Using machine learning to turn you into a designer'
+    excerpt: "Talk at [Codiax](https://codiax.co/) about how we are leveraging machine learning at Uizard to make design more accessible"
+    btn_class: "btn--inverse"
+    btn_label: "Recorded Talk (Clip)"
+    url: "https://twitter.com/JavierFnts/status/1393174771316178945?s=20"
+---
+{% include feature_row id="feature_row_codiax" type="left" %}
 {% include feature_row id="feature_row_london_ai" type="left" %}
+
