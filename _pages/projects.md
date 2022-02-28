@@ -44,7 +44,7 @@ side_clip_playground:
     excerpt: "A Streamlit powered interface around [CLIP](https://openai.com/blog/clip/). 
     <br /> <br />
     [Read thread](https://twitter.com/JavierFnts/status/1363522529072214019?s=20){: .btn .btn--inverse .btn--large} &emsp;
-    [Try it](https://clipplayground.co){: .btn .btn--primary .btn--large}"
+    [Try it](https://share.streamlit.io/javifuentes94/clip-playground/main){: .btn .btn--primary .btn--large}"
 
 side_summarizedml:
   - image_path: assets/images/projects/summarizedml.png
@@ -84,7 +84,6 @@ Some of the cool projects I have been working in the past few years
 ## Side projects
 {% include feature_row id="side_summarizedml" type="left" %}
 {% include feature_row id="side_clip_playground" type="left" %}
-
 ## Uizard
 {% include feature_row id="uizard_lofi_conversion" type="left" %}
 {% include feature_row id="uizard_theme_extraction" type="left" %}
