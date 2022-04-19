@@ -13,7 +13,7 @@ Hey! I am Javier 👋
 
 I design and implement machine learning solutions for real world problems. I love reading papers for inspiration and then complain about not having enough data to bring them to products.
 
-Currently, I am working on different CV & NLP problems at [Uizard](https://uizard.io), where we are building the world's first machine learning powered design tool. We believe that you can design products if machine learning gives you a hand. 
+Currently, I lead the machine learning team at [Uizard](https://uizard.io), where we are building the world's first machine learning powered design tool. We believe that everybody can design products if machine learning gives you a hand. 
 
 You can check out my [projects page](projects) to see some of the stuff I have built in Uizard and on the side lately.
 
