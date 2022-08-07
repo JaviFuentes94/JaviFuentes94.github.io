@@ -44,7 +44,7 @@ side_clip_playground:
     excerpt: "A Streamlit powered interface around [CLIP](https://openai.com/blog/clip/). 
     <br /> <br />
     [Read thread](https://twitter.com/JavierFnts/status/1363522529072214019?s=20){: .btn .btn--inverse .btn--large} &emsp;
-    [Try it](https://share.streamlit.io/javifuentes94/clip-playground/main){: .btn .btn--primary .btn--large}"
+    [Try it](https://javifuentes94-clip-playground-app-haepeo.streamlitapp.com/){: .btn .btn--primary .btn--large}"
 
 side_summarizedml:
   - image_path: assets/images/projects/summarizedml.png
